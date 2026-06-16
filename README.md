@@ -11,7 +11,7 @@
 ##
 
 <div aling=center>
-  <img src="https://raw.githubusercontent.com/icarusik/icarusik/output/snake.svg" alt="Snake animation" />  
+![snake gif](https://github.com/icarusik/icarusik/blob/output/github-snake-dark.svg)
 </div>
 
 <div> 
