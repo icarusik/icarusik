@@ -10,8 +10,8 @@
 
 ##
 
-<div aling=center>
-![snake gif](https://github.com/icarusik/icarusik/blob/output/github-snake-dark.svg)
+<div>
+(https://github.com/icarusik/icarusik/blob/output/github-snake-dark.svg)
 </div>
 
 <div> 
