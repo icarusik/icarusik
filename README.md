@@ -10,9 +10,13 @@
 
 ##
 
-<div>
-(https://github.com/icarusik/icarusik/blob/output/github-snake-dark.svg)
+
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 </div>
+
 
 <div> 
   <a href="https://www.instagram.com/enzohissao?igsh=MTR0MXFib3g5NTdlbw%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
