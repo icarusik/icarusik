@@ -23,3 +23,5 @@
   <a href = "mailto:enzohissaoyamamotoribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/enzohissaoyamamotoribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBxdGtpbjJlcTR3cHFsOWg5ZDB6amM5aHAxNTU5Y3RmcXhqYWhraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ZOyRdXL7ZVKg/giphy.gif" alt="GIF" width="300">
